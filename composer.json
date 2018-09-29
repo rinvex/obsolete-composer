@@ -80,6 +80,7 @@
             "Rinvex\\Composer\\Plugins\\CustomPlugin"
         ]
     },
+    "abandoned": "rinvex/laravel-composer",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
