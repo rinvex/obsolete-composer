@@ -2,6 +2,8 @@
 
 **Rinvex Composer** is an intuitive package that utilizes Composer Plugin API to support additional actions during installation, such as installing packages outside of the default vendor library and running custom scripts during install, update, and uninstall processes.
 
+⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-composer](https://github.com/rinvex/laravel-composer)** package instead. ⚠️
+
 [![Packagist](https://img.shields.io/packagist/v/rinvex/composer.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/composer)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/composer.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/composer/)
 [![Code Climate](https://img.shields.io/codeclimate/github/rinvex/composer.svg?label=CodeClimate&style=flat-square)](https://codeclimate.com/github/rinvex/composer)
